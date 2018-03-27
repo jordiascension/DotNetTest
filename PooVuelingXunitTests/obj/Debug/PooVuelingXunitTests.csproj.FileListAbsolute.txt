@@ -1,0 +1,9 @@
+C:\Users\jordi\source\repos\PooVueling\PooVuelingXunitTests\bin\Debug\PooVuelingXunitTests.dll
+C:\Users\jordi\source\repos\PooVueling\PooVuelingXunitTests\bin\Debug\PooVuelingXunitTests.pdb
+C:\Users\jordi\source\repos\PooVueling\PooVuelingXunitTests\bin\Debug\PooVueling.exe
+C:\Users\jordi\source\repos\PooVueling\PooVuelingXunitTests\bin\Debug\PooVueling.pdb
+C:\Users\jordi\source\repos\PooVueling\PooVuelingXunitTests\bin\Debug\PooVueling.exe.config
+C:\Users\jordi\source\repos\PooVueling\PooVuelingXunitTests\obj\Debug\PooVuelingXunitTests.csprojResolveAssemblyReference.cache
+C:\Users\jordi\source\repos\PooVueling\PooVuelingXunitTests\obj\Debug\PooVuelingXunitTests.csproj.CoreCompileInputs.cache
+C:\Users\jordi\source\repos\PooVueling\PooVuelingXunitTests\obj\Debug\PooVuelingXunitTests.dll
+C:\Users\jordi\source\repos\PooVueling\PooVuelingXunitTests\obj\Debug\PooVuelingXunitTests.pdb

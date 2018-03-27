@@ -1,0 +1,6 @@
+C:\Users\jordi\source\repos\PooVueling\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\jordi\source\repos\PooVueling\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\jordi\source\repos\PooVueling\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\jordi\source\repos\PooVueling\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\jordi\source\repos\PooVueling\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\jordi\source\repos\PooVueling\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
